@@ -1,4 +1,4 @@
-<h2 align="left">Hello World, I'm ... Welcome to my profile!</h2>
+<h2 align="left">Hello World, I'm decayed! Welcome to my profile!</h2>
 
 ### Não esqueça de mudar os links usando o seu user neles.
 
