@@ -1,6 +1,6 @@
 <h2 align="left">Hello World, I'm decayed! Welcome to my profile!</h2>
 
-### Não esqueça de mudar os links usando o seu user neles.
+### A Gamer, Full Stack Dev, And Arch User...
 
 <table>
   <tr>
